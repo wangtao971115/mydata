@@ -5,6 +5,7 @@ public class AC220 implements AC {
 
     @Override
     public int outputAC() {
+	int i=1;
         return output;
     }
 }
